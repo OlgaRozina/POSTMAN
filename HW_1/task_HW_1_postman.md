@@ -1,11 +1,9 @@
 ## CREATE REQUESTS IN POSTMAN
-*****
+_____
 Protocol: http
-
 IP: 162.55.220.72
-
 Port: 5005
-****
+____
 ## EP_1
 method: GET
 end_point: /get_method
@@ -13,7 +11,7 @@ request url params:
 - name: str
 - age: int
 <img src="EP_1.png" alt="EP_1">
-****
+____
 ## EP_2
 method: POST
 end_point: /user_info_3
