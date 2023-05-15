@@ -1,9 +1,10 @@
 ## CREATE REQUESTS IN POSTMAN
 _____
 Protocol: http
+
 IP: 162.55.220.72
+
 Port: 5005
-____
 
 ## EP_1
 method: GET
@@ -12,7 +13,6 @@ request url params:
 - name: str
 - age: int
 <img src="EP_1.png" alt="EP_1">
-____
 
 ## EP_2
 method: POST
@@ -22,7 +22,6 @@ name: str
 - age: int
 - salary: int
 <img src="EP_2.png" alt="EP_2">
-____
 
 ## EP_3
 method: GET
@@ -32,7 +31,6 @@ request url params:
 - age: int
 - salary: int
 <img src="EP_3.png" alt="EP_3">
-____
 
 ## EP_4
 method: GET
@@ -42,7 +40,6 @@ request url params:
 - age: int
 - salary: int
 <img src="EP_4.png" alt="EP_4">
-____
 
 ## EP_5
 method: GET
@@ -52,7 +49,6 @@ request url params:
 - age: int
 - salary: int
 <img src="EP_5.png" alt="EP_5">
-____
 
 ## EP_6
 method: GET
@@ -62,7 +58,6 @@ request url params:
 - age: int
 - salary: int
 <img src="EP_6.png" alt="EP_6">
-____
 
 ## EP_7
 method: POST
@@ -72,4 +67,3 @@ name: str
 age: int
 salary: int
 <img src="EP_7.png" alt="EP_7">
-____
