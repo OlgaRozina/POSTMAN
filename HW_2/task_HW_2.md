@@ -3,7 +3,7 @@
 ## http://162.55.220.72:5005/first
 ____
 ### 1. Send request.
-<img src="EP_1.png" alt="EP_1">
+<img src="screen/EP_1.png" alt="EP_1">
 
 ### 2. Check that status code is 200.
 ```
@@ -23,7 +23,7 @@ ____
 ## http://162.55.220.72:5005/user_info_3
 ____
 ### 1. Send request.
-<img src="EP_2.png" alt="EP_2">
+<img src="screen/EP_2.png" alt="EP_2">
 
 ### 2. Check that status code is  200.
 ```
@@ -103,7 +103,7 @@ _____
 ## http://162.55.220.72:5005/object_info_3
 ______
 ### 1. Send request.
-<img src="EP_3.png" alt="EP_3">
+<img src="screen/EP_3.png" alt="EP_3">
 
 ### 2. Check the status code is 200.
 ```
@@ -179,7 +179,7 @@ _____
 http://162.55.220.72:5005/object_info_4
 ___
 ### 1. Send request.
-<img src="EP_4.png" alt="EP_4">
+<img src="screen/EP_4.png" alt="EP_4">
 
 ### 2. Check the status code is 200.
 ```
@@ -264,7 +264,7 @@ ____
 ### 16. Create an age variable in the  environment.
 
 ### 17. Create a salary variable in the environment.
-<img src="EP_4_1.png" alt="EP_4_1">
+<img src="screen/EP_4_1.png" alt="EP_4_1">
 
 ### 18. Send the name variable to the environment.
 ```
@@ -301,7 +301,7 @@ ____
 ### 2. Insert the age parameter from the environment into age.
 ### 3. Insert the name parameter from the environment into name.
 ### 4. Submit a request.
-<img src="EP_5.png" alt="EP_5">
+<img src="screen/EP_5.png" alt="EP_5">
 
 ### 5. Check status code is 200.
 ```
