@@ -27,7 +27,7 @@ request url params:
 - age: int
 - salary: int
 
-<img src="EP_2.png" alt="EP_2">
+<img src="screen/EP_2.png" alt="EP_2">
 
 ## EP_3
 method: GET
@@ -39,7 +39,7 @@ request url params:
 - age: int
 - salary: int
 
-<img src="EP_3.png" alt="EP_3">
+<img src="screen/EP_3.png" alt="EP_3">
 
 ## EP_4
 method: GET
@@ -51,7 +51,7 @@ request url params:
 - age: int
 - salary: int
 
-<img src="EP_4.png" alt="EP_4">
+<img src="screen/EP_4.png" alt="EP_4">
 
 ## EP_5
 method: GET
@@ -63,7 +63,7 @@ request url params:
 - age: int
 - salary: int
 
-<img src="EP_5.png" alt="EP_5">
+<img src="screen/EP_5.png" alt="EP_5">
 
 ## EP_6
 method: GET
@@ -75,7 +75,7 @@ request url params:
 - age: int
 - salary: int
 
-<img src="EP_6.png" alt="EP_6">
+<img src="screen/EP_6.png" alt="EP_6">
 
 ## EP_7
 method: POST
@@ -87,4 +87,4 @@ request url params:
 - age: int
 - salary: int
 
-<img src="EP_7.png" alt="EP_7">
+<img src="screen/EP_7.png" alt="EP_7">
