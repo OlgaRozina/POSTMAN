@@ -15,7 +15,7 @@ request url params:
 - name: str
 - age: int
 
-<img src="EP_1.png" alt="EP_1">
+<img src="screen/EP_1.png" alt="EP_1">
 
 ## EP_2
 method: POST
